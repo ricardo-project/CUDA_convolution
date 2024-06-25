@@ -5,12 +5,6 @@
 #include<cmath>
 using namespace std;
 
-/*
-cd C:\Users\aless\OneDrive\Documentos\Neural Network (New Model)\Test CUDA
-nvcc kernel2.cu -o kernel2
-
-*/
-
 #define N 1024
 #define B 256
 #define O 256
